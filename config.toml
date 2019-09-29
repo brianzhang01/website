@@ -1,43 +1,46 @@
 # baseURL = "https://example.edu"
 baseURL = "http://www.stats.ox.ac.uk/~bzhang/"
 languageCode = "en-us"
-title = "Hadi Sinaee"
+title = "Brian Zhang"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
 
 [params]
   subtitle= "PhD Student"
-  interests="Deep Reinforcement Learning, Machine Learning "
-  cv_name= "HadiSinaee_CV.pdf"
-  blog="http://myblog.edu"
+  interests="Population Genetics, Machine Learning"
+  # cv_name= "HadiSinaee_CV.pdf"
+  blog="https://brianzhang01.github.io/"
 
 [[params.affilation]]
-  name = "Stanford University"
+  name = "Oxford University"
   position = "PhD Student"
-  contact = "hadi@cs.stanford.edu"
+  contact = "brian.zhang@stats.ox.ac.uk"
 
-[[params.affilation]]
-  name = "MyCoolStartup"
-  position = "Co-Founder"
-  contact = "hadi@mycoolstartup.ai"
+# [[params.affilation]]
+#  name = "MyCoolStartup"
+#  position = "Co-Founder"
+#  contact = "hadi@mycoolstartup.ai"
 
 [[params.social]]
   name = "GitHub"
   icon = "github"
-  url = "https://github.com/hadisinaee"
+  url = "https://github.com/brianzhang01"
 
 [[params.social]]
   name = "Twitter"
   icon = "twitter"
-  url = "https://twitter.com/hadisinaee"
+  url = "https://twitter.com/brianczhang"
 
 
 [[params.social]]
   name = "LinkedIn"
   icon = "linkedin"
-  url = "https://linkedin.com/in/hadisinaee/"
+  url = "https://linkedin.com/in/brianzhang01/"
 
+[[params.introduction.paragraph]]
+  text="""This page about me is a work in progress. I am fortunate to be a member of [Pier Palamara's group](https://www.palamaralab.org) at Oxford.
+   """
 
 [[params.introduction.paragraph]]
   text="""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -46,14 +49,6 @@ timeout=3000
 		Egestas sed sed risus pretium quam vulputate dignissim suspendisse in.
 		Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Condimentum lacinia quis vel eros donec.
    """
-[[params.introduction.paragraph]]
-  text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
-	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
-	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
-	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
-	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
-  """
-
 
 [[params.projects]]
 	[[params.projects.project]]
