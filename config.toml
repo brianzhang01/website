@@ -28,6 +28,11 @@ timeout=3000
   url = "https://github.com/brianzhang01"
 
 [[params.social]]
+  name = "Google Scholar"
+  icon = "book-open"
+  url = "https://scholar.google.com/citations?user=zJPPrfkAAAAJ"
+
+[[params.social]]
   name = "Twitter"
   icon = "twitter"
   url = "https://twitter.com/brianczhang"
@@ -38,11 +43,11 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""I am a third-year PhD student in the Oxford Department of Statistics working on statistical genetics. I am fortunate to be a member of [Pier Palamara's group](https://www.palamaralab.org) and am currently investigating methods that infer genealogies for a set of genetic samples. Due to genetic recombination during meiosis, the pattern of these genealogies shifts as one scans across the genome. Inference of these local genealogies provides a rich picture of genetic relatedness and can shed light on biological processes from natural selection to the genetics risk factors underlying disease.
+  text="""I am a third-year PhD student in the Oxford Department of Statistics working on statistical genetics. I am fortunate to be a member of [Pier Palamara's group](https://www.palamaralab.org) and am currently investigating methods that infer genealogies for a set of genetic samples. Due to genetic recombination during meiosis, the pattern of these genealogies shifts as one scans across the genome. Inference of these local genealogies provides a rich picture of genetic relatedness and can shed light on biological processes from natural selection to the genetic risk factors underlying disease.
    """
 
 [[params.introduction.paragraph]]
-  text="""At Oxford, I am co-supervised by Geoff Nicholls, and was also previously supervised by Jonathan Marchini. Before coming to Oxford, I worked for two years as a research engineer at DeepMind in London.
+  text="""At Oxford, I am supported by the Clarendon Scholarship and am a member of St. John's College. I am co-supervised by Geoff Nicholls, and was also previously supervised by Jonathan Marchini. Before coming to Oxford, I worked for two years as a research engineer at DeepMind in London.
    """
 
 [[params.projects]]
@@ -55,7 +60,7 @@ timeout=3000
 
  [[params.projects.project]]
 		name = "Mathematics of Linear Mixed Models"
-		description  = "My first PhD project focused on improving linear mixed model association in genetics. Standard inference under the mixed model does not scale to modern genetic datasets, so my PhD supervisors and I were looking to build on past methods like BOLT-LMM and LDpred to further improve the scalability of mixed model association. Although I have put the project on pause, my work in this area led me to write a set of expository notes on the mathematics of linear mixed models. (In progress, last modified October 2019.)"
+		description  = "My first PhD project focused on improving linear mixed model association in genetics. Standard inference under the mixed model does not scale to modern genetic datasets, so my PhD supervisors and I were looking to build on past methods like BOLT-LMM and LDpred to further improve the scalability of mixed model association. Although I have put the project on pause, my work in this area led me to write a set of expository notes on the mathematics of linear mixed models. (In progress, last modified February 2020.)"
 		project_page = "lmm-math.pdf"
 		code_link = ""
 		blog_link = ""
