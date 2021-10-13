@@ -1,5 +1,5 @@
 # baseURL = "https://example.edu"
-baseURL = "http://www.stats.ox.ac.uk/~bzhang/"
+baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
 languageCode = "en-us"
 title = "Brian Zhang"
 theme = "avicenna"
@@ -43,7 +43,7 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""I am a third-year PhD student in the Oxford Department of Statistics working on statistical genetics. I am fortunate to be a member of [Pier Palamara's group](https://www.palamaralab.org) and am currently investigating methods that infer genealogies for a set of genetic samples. Due to genetic recombination during meiosis, the pattern of these genealogies shifts as one scans across the genome. Inference of these local genealogies provides a rich picture of genetic relatedness and can shed light on biological processes from natural selection to the genetic risk factors underlying disease.
+  text="""I am a fifth-year PhD student in the Oxford Department of Statistics working on statistical genetics. I am fortunate to be a member of [Pier Palamara's group](https://palamaralab.github.io/) and am currently investigating methods that infer genealogies for a set of genetic samples. Due to genetic recombination during meiosis, the pattern of these genealogies shifts as one scans across the genome. Inference of these local genealogies provides a rich picture of genetic relatedness and can shed light on biological processes from natural selection to the genetic risk factors underlying disease.
    """
 
 [[params.introduction.paragraph]]
@@ -53,7 +53,7 @@ timeout=3000
 [[params.projects]]
 	[[params.projects.project]]
 		name = "Scalable Ancestral Recombination Graph Inference"
-		description  = "In population genetics, the ancestral recombination graph captures the history of coalescence, recombination, and mutation events, that gives rise to sequence or SNP array data. Two recently published methods, [Relate](https://www.nature.com/articles/s41588-019-0484-x) and [tsinfer](https://www.nature.com/articles/s41588-019-0483-y), have demonstrated promise in inferring the ancestral recombination graph in large-scale genetic datasets. I am hoping to improve upon these methods for the remainder of my PhD."
+		description  = "In population genetics, the ancestral recombination graph captures the history of coalescence, recombination, and mutation events, that gives rise to sequence or SNP array data. Two recently published methods, [Relate](https://www.nature.com/articles/s41588-019-0484-x) and [tsinfer](https://www.nature.com/articles/s41588-019-0483-y), have demonstrated promise in inferring the ancestral recombination graph in large-scale genetic datasets. I am hoping to develop a complementary method in this area for the remainder of my PhD."
 		project_page = ""
 		code_link = ""
 		blog_link = ""
