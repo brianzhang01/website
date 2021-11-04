@@ -1,7 +1,7 @@
 # baseURL = "https://example.edu"
 baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
 languageCode = "en-us"
-title = "Brian Zhang"
+title = "Brian C. Zhang"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
@@ -52,8 +52,8 @@ timeout=3000
 
 [[params.projects]]
 	[[params.projects.project]]
-		name = "Scalable Ancestral Recombination Graph Inference"
-		description  = "In population genetics, the ancestral recombination graph captures the history of coalescence, recombination, and mutation events, that gives rise to sequence or SNP array data. Two recently published methods, [Relate](https://www.nature.com/articles/s41588-019-0484-x) and [tsinfer](https://www.nature.com/articles/s41588-019-0483-y), have demonstrated promise in inferring the ancestral recombination graph in large-scale genetic datasets. I am hoping to develop a complementary method in this area for the remainder of my PhD."
+		name = "Biobank-Scale Ancestral Recombination Graph Inference"
+		description  = "In population genetics, the ancestral recombination graph (ARG) captures the history of coalescence, recombination, and mutation events that gives rise to observed genetic data. We developed a method, ARG-Needle, that leverages coalescent modeling for ascertained genotyping array data to infer accurate, biobank-scale ARGs from SNP arrays. We also developed a framework for performing mixed-model association of unobserved variation implied by an inferred ARG. Using these methods, we inferred the ARG of 337,464 individuals in the UK Biobank and performed genealogy-based association of 7 complex traits, recapitulating as well as detecting complementary associations compared to reference-based imputation. As these methods only require SNP array data, we anticipate they will be particularly relevant for populations that are currently undersequenced."
 		project_page = ""
 		code_link = ""
 		blog_link = ""
@@ -80,6 +80,14 @@ timeout=3000
 
 [[params.publications]]
   year="Preprint"
+
+  [[params.publications.paper]]
+    name = "Biobank-scale inference of ancestral recombination graphs enables genealogy-based mixed model association of complex traits"
+    authors = "__Brian C. Zhang__, Arjun Biddanda, and Pier Francesco Palamara"
+    dest  = "coming soon"
+    link = ""
+    code_link = ""
+    blog_link = ""
 
   [[params.publications.paper]]
     name = "Coconuts and Islanders: A Statistics-First Guide to the Boltzmann Distribution"
