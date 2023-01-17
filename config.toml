@@ -7,14 +7,14 @@ googleAnalytics = "UA-1234-6"
 timeout=3000
 
 [params]
-  subtitle= "PhD Student"
-  interests="Population Genetics, Machine Learning"
+  subtitle= "PhD"
+  interests="Statistical Genetics, Population Genetics, Machine Learning"
   # cv_name= "HadiSinaee_CV.pdf"
   blog="https://brianzhang01.github.io/"
 
 [[params.affilation]]
   name = "Oxford University"
-  position = "PhD Student"
+  position = "PhD"
   contact = "brian.zhang@stats.ox.ac.uk"
 
 # [[params.affilation]]
@@ -43,11 +43,15 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""I am a fifth-year PhD student in the Oxford Department of Statistics working on statistical genetics. I am fortunate to be a member of [Pier Palamara's group](https://palamaralab.github.io/) and am currently investigating methods that infer genealogies for a set of genetic samples. Due to genetic recombination during meiosis, the pattern of these genealogies shifts as one scans across the genome. Inference of these local genealogies provides a rich picture of genetic relatedness and can shed light on biological processes from natural selection to the genetic risk factors underlying disease.
+  text="""**I have successfully defended my PhD and am currently applying to industry positions!** View my thesis [here](brian_thesis.pdf).
    """
 
 [[params.introduction.paragraph]]
-  text="""At Oxford, I am supported by the Clarendon Scholarship and am a member of St. John's College. I am co-supervised by Geoff Nicholls, and was also previously supervised by Jonathan Marchini. Before coming to Oxford, I worked for two years as a research engineer at DeepMind in London.
+  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation.
+   """
+
+[[params.introduction.paragraph]]
+  text="""During my PhD, I was supported by the Clarendon Scholarship and was a member of St. John's College. Before Oxford, I worked for two years as a research engineer at DeepMind in London.
    """
 
 [[params.projects]]
@@ -115,3 +119,14 @@ timeout=3000
 		link = "https://www.nature.com/articles/s41586-018-0102-6.epdf?author_access_token=BjM-5BdGxd14c17YFA6PsdRgN0jAjWel9jnR3ZoTv0OEfySMT4t78PpPpCS7uExW3njb8Q4UlgcwRM32WwBCKZs73SThwkfI42wHhFEtJM-Y7sQxDsR1cR7_C9Kq1GwuxGJn46kzRnujvrDMGzc4TQ%3D%3D"
 		code_link = ""
 		blog_link = "https://deepmind.com/blog/article/grid-cells"
+
+[[params.publications]]
+  year="D.Phil. Thesis"
+
+  [[params.publications.paper]]
+    name = "Biobank-Scale Ancestral Recombination Graphs: Inference and Applications to the Analysis of Complex Traits"
+    dest  = "University of Oxford, Department of Statistics"
+    authors = "__Brian C. Zhang__"
+    link = "brian_thesis.pdf"
+    code_link = ""
+    blog_link = ""
