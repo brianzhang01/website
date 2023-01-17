@@ -13,7 +13,7 @@ timeout=3000
   blog="https://brianzhang01.github.io/"
 
 [[params.affilation]]
-  name = "Oxford University"
+  name = "University of Oxford"
   position = "PhD"
   contact = "brian.zhang@stats.ox.ac.uk"
 
