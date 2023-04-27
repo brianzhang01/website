@@ -43,11 +43,11 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""**I have successfully defended my PhD and am currently applying to industry positions!** View my thesis [here](brian_thesis.pdf).
+  text="""I defended my PhD in 2022 and am now working as a computational biologist at Adaptive Biotechnologies!
    """
 
 [[params.introduction.paragraph]]
-  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation.
+  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation. View my thesis [here](brian_thesis.pdf).
    """
 
 [[params.introduction.paragraph]]
