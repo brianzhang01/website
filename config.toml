@@ -16,7 +16,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of Oxford"
   position = "PhD"
-  contact = "brian.zhang@well.ox.ac.uk"
+  contact = "zhang.brian@gmail.com"
 
 # [[params.affilation]]
 #  name = "MyCoolStartup"
@@ -94,19 +94,14 @@ timeout=3000
     code_link = ""
     blog_link = ""
 
+[[params.publications]]
+  year="2019"
+
   [[params.publications.paper]]
     name = "Coconuts and Islanders: A Statistics-First Guide to the Boltzmann Distribution"
     authors = "__Brian Zhang__"
     dest  = "arXiv 2019"
     link = "https://arxiv.org/abs/1904.04669"
-    code_link = ""
-    blog_link = ""
-
-  [[params.publications.paper]]
-    name = "The Kinetics Human Action Video Dataset"
-    authors = "Will Kay, João Carreira, Karen Simonyan, __Brian Zhang__, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, Andrew Zisserman"
-    dest  = "arXiv 2017"
-    link = "https://arxiv.org/abs/1705.06950"
     code_link = ""
     blog_link = ""
 
@@ -122,12 +117,23 @@ timeout=3000
 		blog_link = "https://deepmind.com/blog/article/grid-cells"
 
 [[params.publications]]
+  year="2017"
+
+  [[params.publications.paper]]
+    name = "The Kinetics Human Action Video Dataset"
+    authors = "Will Kay, João Carreira, Karen Simonyan, __Brian Zhang__, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, Andrew Zisserman"
+    dest  = "arXiv 2017"
+    link = "https://arxiv.org/abs/1705.06950"
+    code_link = ""
+    blog_link = ""
+
+[[params.publications]]
   year="D.Phil. Thesis"
 
   [[params.publications.paper]]
     name = "Biobank-Scale Ancestral Recombination Graphs: Inference and Applications to the Analysis of Complex Traits"
     dest  = "University of Oxford, Department of Statistics"
     authors = "__Brian C. Zhang__"
-    link = "brian_thesis.pdf"
+    link = "https://ora.ox.ac.uk/objects/uuid:c4e8fb87-618b-4ca1-ad04-16f415ce5021"
     code_link = ""
     blog_link = ""
