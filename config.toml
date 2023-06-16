@@ -1,5 +1,6 @@
 # baseURL = "https://example.edu"
-baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
+# baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
+baseURL = "https://resonant-licorice-2ad61b.netlify.app"
 languageCode = "en-us"
 title = "Brian C. Zhang"
 theme = "avicenna"
@@ -15,7 +16,7 @@ timeout=3000
 [[params.affilation]]
   name = "University of Oxford"
   position = "PhD"
-  contact = "brian.zhang@stats.ox.ac.uk"
+  contact = "brian.zhang@well.ox.ac.uk"
 
 # [[params.affilation]]
 #  name = "MyCoolStartup"
