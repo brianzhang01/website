@@ -1,6 +1,6 @@
 # baseURL = "https://example.edu"
 # baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
-baseURL = "https://resonant-licorice-2ad61b.netlify.app"
+baseURL = "https://brianzhang01.github.io/"
 languageCode = "en-us"
 title = "Brian C. Zhang"
 theme = "avicenna"
@@ -11,7 +11,7 @@ timeout=3000
   subtitle= "PhD"
   interests="Statistical Genetics, Population Genetics, Machine Learning"
   # cv_name= "HadiSinaee_CV.pdf"
-  blog="https://brianzhang01.github.io/"
+  blog="https://brianzhang01.github.io/blog/"
 
 [[params.affilation]]
   name = "University of Oxford"
@@ -66,7 +66,7 @@ timeout=3000
  [[params.projects.project]]
 		name = "Mathematics of Linear Mixed Models"
 		description  = "My first PhD project focused on improving linear mixed model association in genetics. Standard inference under the mixed model does not scale to modern genetic datasets, so my PhD supervisors and I were looking to build on past methods like BOLT-LMM and LDpred to further improve the scalability of mixed model association. Although I have put the project on pause, my work in this area led me to write a set of expository notes on the mathematics of linear mixed models. (In progress, last modified February 2020.)"
-		project_page = "lmm-math.pdf"
+		project_page = "sitefiles/lmm-math.pdf"
 		code_link = ""
 		blog_link = ""
 
