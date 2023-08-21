@@ -1,6 +1,6 @@
 # baseURL = "https://example.edu"
 # baseURL = "https://www.stats.ox.ac.uk/~bzhang/"
-baseURL = "https://brianzhang01.github.io/"
+baseURL = "https://www.brianczhang.com/"
 languageCode = "en-us"
 title = "Brian C. Zhang"
 theme = "avicenna"
@@ -11,7 +11,7 @@ timeout=3000
   subtitle= "PhD"
   interests="Statistical Genetics, Population Genetics, Machine Learning"
   # cv_name= "HadiSinaee_CV.pdf"
-  blog="https://brianzhang01.github.io/blog/"
+  blog="https://www.brianczhang.com/blog/"
 
 [[params.affilation]]
   name = "University of Oxford"
@@ -79,7 +79,7 @@ timeout=3000
  [[params.projects.project]]
 		name = "Random Graphs and Giant Components"
 		description  = "An R Markdown blog post introducing the Erdős-Rényi random graph and giant component. I tried to build intuition through figures and animations, but have also linked to further reading on random graphs. Done in my free time during my PhD."
-		project_page = "https://brianzhang01.github.io/2018/07/random-graphs-and-giant-components/"
+		project_page = "https://www.brianczhang.com/blog/2018/07/random-graphs-and-giant-components/"
         code_link = "https://github.com/brianzhang01/giant_demo"
 		blog_link = ""
 
