@@ -48,7 +48,7 @@ timeout=3000
    """
 
 [[params.introduction.paragraph]]
-  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation. My thesis is available [here](https://ora.ox.ac.uk/objects/uuid:c4e8fb87-618b-4ca1-ad04-16f415ce5021).
+  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation. See [our paper](https://www.nature.com/articles/s41588-023-01379-x) in Nature Genetics or [my thesis](https://ora.ox.ac.uk/objects/uuid:c4e8fb87-618b-4ca1-ad04-16f415ce5021).
    """
 
 [[params.introduction.paragraph]]
@@ -59,9 +59,9 @@ timeout=3000
 	[[params.projects.project]]
 		name = "Biobank-Scale Ancestral Recombination Graph Inference"
 		description  = "In population genetics, the ancestral recombination graph (ARG) captures the history of coalescence, recombination, and mutation events that gives rise to observed genetic data. We developed a method, ARG-Needle, that leverages coalescent modeling for ascertained genotyping array data to infer accurate, biobank-scale ARGs from SNP arrays. We also developed a framework for performing mixed-model association of unobserved variation implied by an inferred ARG. Using these methods, we inferred the ARG of 337,464 individuals in the UK Biobank and performed genealogy-based association of 7 complex traits, recapitulating as well as detecting complementary associations compared to reference-based imputation. As these methods only require SNP array data, we anticipate they will be particularly relevant for populations that are currently undersequenced."
-		project_page = "https://www.biorxiv.org/content/10.1101/2021.11.03.466843"
-		code_link = ""
-		blog_link = ""
+		project_page = "https://www.nature.com/articles/s41588-023-01379-x"
+		code_link = "https://palamaralab.github.io/software/argneedle/"
+		blog_link = "https://twitter.com/brianczhang/status/1653531515261730819"
 
  [[params.projects.project]]
 		name = "Mathematics of Linear Mixed Models"
@@ -84,15 +84,15 @@ timeout=3000
 		blog_link = ""
 
 [[params.publications]]
-  year="Preprint"
+  year="2023"
 
   [[params.publications.paper]]
     name = "Biobank-scale inference of ancestral recombination graphs enables genealogy-based mixed model association of complex traits"
-    authors = "__Brian C. Zhang__, Arjun Biddanda, and Pier Francesco Palamara"
-    dest  = "bioRxiv 2021"
+    authors = "__Brian C. Zhang__, Arjun Biddanda, Árni Freyr Gunnarsson, Fergus Cooper, and Pier Francesco Palamara"
+    dest  = "Nature Genetics"
     link = "https://www.biorxiv.org/content/10.1101/2021.11.03.466843"
-    code_link = ""
-    blog_link = ""
+    code_link = "https://palamaralab.github.io/software/argneedle/"
+    blog_link = "https://twitter.com/brianczhang/status/1653531515261730819"
 
 [[params.publications]]
   year="2019"
