@@ -9,7 +9,7 @@ timeout=3000
 
 [params]
   subtitle= "PhD"
-  interests="Statistical Genetics, Population Genetics, Machine Learning"
+  interests="Adaptive Immune Receptor Repertoires, Autoimmune Disease, Statistical Genetics, Population Genetics, Machine Learning"
   # cv_name= "HadiSinaee_CV.pdf"
   blog="https://www.brianczhang.com/blog/"
 
@@ -44,11 +44,11 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""I defended my PhD in 2022 and am now working as a computational biologist at Adaptive Biotechnologies!
+  text="""I am currently a senior computational biologist at Adaptive Biotechnologies on the TCR Discovery Team.
    """
 
 [[params.introduction.paragraph]]
-  text="""At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation. See [our paper](https://www.nature.com/articles/s41588-023-01379-x) in Nature Genetics or [my thesis](https://ora.ox.ac.uk/objects/uuid:c4e8fb87-618b-4ca1-ad04-16f415ce5021).
+  text="""I defended my PhD in 2022. At Oxford, I was a member of [Pier Palamara's group](https://palamaralab.github.io/). We developed a method, ARG-Needle, to infer the genome-wide genealogy of a set of genetic samples from genotyping array or sequencing data. We built the genome-wide genealogy of 337K samples in the UK Biobank and scanned the genealogy for associations with 7 complex traits. This yielded more rare and ultra-rare associations than found by genotype imputation, which were overall enriched for loss-of-function variation. See [our paper](https://www.nature.com/articles/s41588-023-01379-x) in Nature Genetics or [my thesis](https://ora.ox.ac.uk/objects/uuid:c4e8fb87-618b-4ca1-ad04-16f415ce5021).
    """
 
 [[params.introduction.paragraph]]
