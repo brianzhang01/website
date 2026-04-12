@@ -1,6 +1,7 @@
 [submodule "themes/avicenna"]
 	path = themes/avicenna
-	url = https://github.com/hadisinaee/avicenna.git
+	url = git@github.com:brianzhang01/avicenna.git
+	branch = develop
 [submodule "public"]
 	path = public
 	url = git@github.com:brianzhang01/brianzhang01.github.io.git
