@@ -84,6 +84,26 @@ timeout=3000
 		blog_link = ""
 
 [[params.publications]]
+  year="2026"
+
+  [[params.publications.paper]]
+    name = "Population-scale Ancestral Recombination Graphs with tskit 1.0"
+    authors = "Ben Jeffery*, Yan Wong*, Kevin Thornton*, Georgia Tsambos*, Gertjan Bisschop†, Yun Deng†, E. Castedo Ellerman†, Thomas B. Forest†, Halley Fritze†, Daniel Goldstein†, Gregor Gorjanc†, Graham Gower†, Simon Gravel†, Jeremy Guez†, Benjamin C. Haller†, Andrew D. Kern†, Lloyd Kirk†, Ivan Krukov†, Hanbin Lee†, Brieuc Lehmann†, Hossameldin Loay†, Matthew M. Osmond†, Duncan S. Palmer†, Nathaniel S. Pope†, Aaron P. Ragsdale†, Duncan Robertson†, Murillo F. Rodrigues†, Hugo van Kemenade†, Clemens L. Weiß†, Anthony Wilder Wohns†, Shing H. Zhan†, __Brian C. Zhang†__, Marianne Aspbury, Nikolas A. Baya, Saurabh Belsare, Arjun Biddanda, Francisco Campuzano Jiménez, Ariella Gladstein, Bing Guo, Savita Karthikeyan, Warren W. Kretzschmar, Inés Rebollo, Kumar Saunack, Ruhollah Shemirani, Alexis Simon, Chris Smith, Jeet Sukumaran, Jonathan Terhorst, Per Unneberg, Ao Zhang, Peter Ralph‡, and Jerome Kelleher‡ (*, †, ‡ = equal contribution)"
+    dest  = "arXiv"
+    link = "https://arxiv.org/abs/2602.09649"
+    code_link = "https://github.com/tskit-dev/tskit"
+
+[[params.publications]]
+  year="2025"
+
+  [[params.publications.paper]]
+    name = "HLA-A*03:01 as predictive genetic biomarker for glatiramer acetate treatment response in multiple sclerosis: a retrospective cohort analysis"
+    authors = "__Brian C. Zhang*__, Tilman Schneider-Hohendorf*, Rebecca Elyanow*, Beatrice Pignolet, Simon Falk, Christian Wünsch, Marie Deffner, Erik Yusko, Damon May, Daniel Mattox, Eva Dawin, Lisa Ann Gerdes, Florence Bucciarelli, Lisa Revie, Gisela Antony, Sven Jarius, Christiane Seidel, Makbule Senel, Stefan Bittner, Felix Luessi, Joachim Havla, Matthias Knop, Manuel A. Friese, Susanne Rothacher, Anke Salmen, Fumie Hayashi, Roland Henry, Stacy Caillier, Adam Santaniello, University of California San Francisco MS-EPIC Team, German Competence Network Multiple Sclerosis (KKNMS), Maria Seipelt, Christoph Heesen, Sandra Nischwitz, Antonios Bayas, Hayrettin Tumani, Florian Then Bergh, Gerd Meyer zu Hörste, Tania Kümpfel, Catharina C. Gross, Brigitte Wildemann, Martin Kerschensteiner, Ralf Gold, Sven G. Meuth, Frauke Zipp, Bruce A.C. Cree, Jorge Oksenberg, Michael R. Wilson, Stephen L. Hauser, Scott S. Zamvil, Luisa Klotz, Roland Liblau, Harlan Robins, Joseph J. Sabatino Jr., Heinz Wiendl, and Nicholas Schwab  (* = equal contribution)"
+    dest  = "eBioMedicine"
+    link = "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00317-2/fulltext"
+    blog_link = "https://www.linkedin.com/posts/brianzhang01_tcells-sequencing-immunemedicine-activity-7358346666107674625--kVs"
+
+[[params.publications]]
   year="2023"
 
   [[params.publications.paper]]
@@ -100,7 +120,7 @@ timeout=3000
   [[params.publications.paper]]
     name = "Coconuts and Islanders: A Statistics-First Guide to the Boltzmann Distribution"
     authors = "__Brian Zhang__"
-    dest  = "arXiv 2019"
+    dest  = "arXiv"
     link = "https://arxiv.org/abs/1904.04669"
     code_link = ""
     blog_link = ""
@@ -110,7 +130,7 @@ timeout=3000
 
   [[params.publications.paper]]
 		name = "Vector-based navigation using grid-like representations in artificial agents"
-		authors = "Andrea Banino, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel, Martin Chadwick, Thomas Degris, Joseph Modayil, Greg Wayne, Hubert Soyer, Fabio Viola, __Brian Zhang__, Ross Goroshin, Neil Rabinowitz, Razvan Pascanu, Charlie Beattie, Stig Petersen, Amir Sadik, Stephen Gaffney, Helen King, Koray Kavukcuoglu, Demis Hassabis, Raia Hadsell, Dharshan Kumaran"
+		authors = "Andrea Banino*, Caswell Barry*, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel, Martin Chadwick, Thomas Degris, Joseph Modayil, Greg Wayne, Hubert Soyer, Fabio Viola, __Brian Zhang__, Ross Goroshin, Neil Rabinowitz, Razvan Pascanu, Charlie Beattie, Stig Petersen, Amir Sadik, Stephen Gaffney, Helen King, Koray Kavukcuoglu, Demis Hassabis, Raia Hadsell, Dharshan Kumaran (* = equal contribution)"
 		dest  = "Nature"
 		link = "https://www.nature.com/articles/s41586-018-0102-6.epdf?author_access_token=BjM-5BdGxd14c17YFA6PsdRgN0jAjWel9jnR3ZoTv0OEfySMT4t78PpPpCS7uExW3njb8Q4UlgcwRM32WwBCKZs73SThwkfI42wHhFEtJM-Y7sQxDsR1cR7_C9Kq1GwuxGJn46kzRnujvrDMGzc4TQ%3D%3D"
 		code_link = ""
@@ -122,7 +142,7 @@ timeout=3000
   [[params.publications.paper]]
     name = "The Kinetics Human Action Video Dataset"
     authors = "Will Kay, João Carreira, Karen Simonyan, __Brian Zhang__, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, Andrew Zisserman"
-    dest  = "arXiv 2017"
+    dest  = "arXiv"
     link = "https://arxiv.org/abs/1705.06950"
     code_link = ""
     blog_link = ""
