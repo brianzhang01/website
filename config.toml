@@ -120,7 +120,7 @@ timeout=3000
     name = "Biobank-scale inference of ancestral recombination graphs enables genealogy-based mixed model association of complex traits"
     authors = "__Brian C. Zhang__, Arjun Biddanda, Árni Freyr Gunnarsson, Fergus Cooper, and Pier Francesco Palamara"
     dest  = "Nature Genetics"
-    link = "https://www.biorxiv.org/content/10.1101/2021.11.03.466843"
+    link = "https://www.nature.com/articles/s41588-023-01379-x"
     code_link = "https://palamaralab.github.io/software/argneedle/"
     blog_link = "https://twitter.com/brianczhang/status/1653531515261730819"
 
