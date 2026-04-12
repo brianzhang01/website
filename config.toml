@@ -98,10 +98,20 @@ timeout=3000
 
   [[params.publications.paper]]
     name = "HLA-A*03:01 as predictive genetic biomarker for glatiramer acetate treatment response in multiple sclerosis: a retrospective cohort analysis"
-    authors = "__Brian C. Zhang*__, Tilman Schneider-Hohendorf*, Rebecca Elyanow*, Beatrice Pignolet, Simon Falk, Christian Wünsch, Marie Deffner, Erik Yusko, Damon May, Daniel Mattox, Eva Dawin, Lisa Ann Gerdes, Florence Bucciarelli, Lisa Revie, Gisela Antony, Sven Jarius, Christiane Seidel, Makbule Senel, Stefan Bittner, Felix Luessi, Joachim Havla, Matthias Knop, Manuel A. Friese, Susanne Rothacher, Anke Salmen, Fumie Hayashi, Roland Henry, Stacy Caillier, Adam Santaniello, University of California San Francisco MS-EPIC Team, German Competence Network Multiple Sclerosis (KKNMS), Maria Seipelt, Christoph Heesen, Sandra Nischwitz, Antonios Bayas, Hayrettin Tumani, Florian Then Bergh, Gerd Meyer zu Hörste, Tania Kümpfel, Catharina C. Gross, Brigitte Wildemann, Martin Kerschensteiner, Ralf Gold, Sven G. Meuth, Frauke Zipp, Bruce A.C. Cree, Jorge Oksenberg, Michael R. Wilson, Stephen L. Hauser, Scott S. Zamvil, Luisa Klotz, Roland Liblau, Harlan Robins, Joseph J. Sabatino Jr., Heinz Wiendl, and Nicholas Schwab  (* = equal contribution)"
+    authors = "__Brian C. Zhang*__, Tilman Schneider-Hohendorf*, Rebecca Elyanow*, Beatrice Pignolet, Simon Falk, Christian Wünsch, Marie Deffner, Erik Yusko, Damon May, Daniel Mattox, Eva Dawin, Lisa Ann Gerdes, Florence Bucciarelli, Lisa Revie, Gisela Antony, Sven Jarius, Christiane Seidel, Makbule Senel, Stefan Bittner, Felix Luessi, Joachim Havla, Matthias Knop, Manuel A. Friese, Susanne Rothacher, Anke Salmen, Fumie Hayashi, Roland Henry, Stacy Caillier, Adam Santaniello, University of California San Francisco MS-EPIC Team, German Competence Network Multiple Sclerosis (KKNMS), Maria Seipelt, Christoph Heesen, Sandra Nischwitz, Antonios Bayas, Hayrettin Tumani, Florian Then Bergh, Gerd Meyer zu Hörste, Tania Kümpfel, Catharina C. Gross, Brigitte Wildemann, Martin Kerschensteiner, Ralf Gold, Sven G. Meuth, Frauke Zipp, Bruce A.C. Cree, Jorge Oksenberg, Michael R. Wilson, Stephen L. Hauser, Scott S. Zamvil, Luisa Klotz, Roland Liblau, Harlan Robins, Joseph J. Sabatino Jr., Heinz Wiendl, and Nicholas Schwab (* = equal contribution)"
     dest  = "eBioMedicine"
     link = "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00317-2/fulltext"
     blog_link = "https://www.linkedin.com/posts/brianzhang01_tcells-sequencing-immunemedicine-activity-7358346666107674625--kVs"
+
+[[params.publications]]
+  year="2024"
+
+  [[params.publications.paper]]
+    name = "A scalable approach for genome-wide inference of ancestral recombination graphs"
+    authors = "Árni Freyr Gunnarsson, Jiazheng Zhu, __Brian C. Zhang__, Zoi Tsangalidou, Alex Allmont, and Pier Francesco Palamara"
+    dest  = "bioRxiv"
+    link = "https://www.biorxiv.org/content/10.1101/2024.08.31.610248v1"
+    code_link = "https://palamaralab.github.io/software/threads/"
 
 [[params.publications]]
   year="2023"
