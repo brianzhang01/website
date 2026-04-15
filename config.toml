@@ -44,7 +44,7 @@ timeout=3000
   url = "https://linkedin.com/in/brianzhang01/"
 
 [[params.introduction.paragraph]]
-  text="""I am currently a senior computational biologist at Adaptive Biotechnologies on the TCR Discovery Team.
+  text="""I am currently a senior computational biologist at Adaptive Biotechnologies on the Autoimmune Modeling Team.
    """
 
 [[params.introduction.paragraph]]
